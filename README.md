@@ -1,1 +1,1 @@
-# AWS_SQS_LAMBDA_DYNMODB
+# ElasticBeanstalk-PHP
