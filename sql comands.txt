@@ -1,0 +1,9 @@
+sudo apt install mysql-server -y
+
+mysql -h ##endpoint## -u ##master-username-eg:admin## -p
+create database intel;
+show databases;
+use intel;
+create table task1(firstname varchar(20),email varchar(20));
+
+select * from data;
